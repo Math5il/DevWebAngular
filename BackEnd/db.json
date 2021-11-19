@@ -1,0 +1,11 @@
+{
+  "hostels": [
+    {
+      "nome": "Ibis",
+      "numero": "265",
+      "localizacao": "SP",
+      "preco": "565",
+      "id": 3
+    }
+  ]
+}
